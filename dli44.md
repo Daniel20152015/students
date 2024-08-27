@@ -1,16 +1,8 @@
-Name - Daniel Li, UT netID - dli44, github username - Daniel20152015, Major - Computer Science
+Daniel Li
+Cosc340 Assignment 2
 
-# Header
+One idea I have is to make a very basic music recommendation algorithm based on what users have previously listened to. I am a big fan of music, and sometimes I don’t find the spotify recommendation algorithm, for example, to always find me the best music. Sometimes, I like to look around multiple places for good music, so more recommendation algorithms couldn’t hurt. My idea is that I can sort music into different types and categories. Then, I can use a node network with an algorithm to suggest a new song based on previous music history and those song’s categories or something like that. Maybe I could have it suggest something or some category the opposite of what would be usually suggested if users ask for something new. I could have it suggest songs based off of which users have listened to similar music in the past and have the algorithm suggest those users the songs that they don’t have in common. Maybe I won’t be able to get this done, but maybe I could get parts of it done like music categorization to some limited degree or have it work assuming categories are already made for it.
 
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+I might use things like TensorFlow, Pytorch, and Sci-kit Learn to help me with making a project like this. Machine learning might be the way to go with this project if possible. That way the recommendation algorithm can get better as it is trained. This kind of recommendation algorithm could be used by companies in the music industry to recommend music for example, or I could even just post it as a free-for-use recommender that anyone can use that could help people find music that they enjoy.
 
-I am from Farragut, Tennessee.
 
-I like playing piano and guitar as well as singing.
-
-<https://www.youtube.com/watch?v=rYkK4HHTBQ4>
-
-I am familiar with Java, C++, Python, Anaconda, Jupyter Notebook, VSCode
